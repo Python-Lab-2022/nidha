@@ -1,4 +1,4 @@
-list=[]
+eatinglist=[]
 n=int(input("enter the no.of elements:"))
 for i in range(0,n):
     list.append(int(input()))
